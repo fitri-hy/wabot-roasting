@@ -1,0 +1,28 @@
+{
+  "name": "fhy-wabot-roasting",
+  "version": "1.0.0",
+  "description": "A whatsapp bot for roasting response in chat applications.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "bot",
+    "roasting",
+    "chat",
+    "ai",
+    "whatsapp",
+    "bot-whastapp",
+    "fhy-wabot"
+  ],
+  "author": "I-As.Dev",
+  "license": "MIT",
+  "homepage": "https://www.npmjs.com/package/fhy-wabot",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "@octokit/rest": "^18.12.0",
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
+    "fhy-wabot": "^1.0.7"
+  }
+}
